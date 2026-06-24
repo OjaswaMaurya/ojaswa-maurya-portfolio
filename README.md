@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Ojaswa Maurya Portfolio
 
-# Run and deploy your AI Studio app
+A cyberpunk-inspired personal developer portfolio built with React, TypeScript, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/fc5318a9-90a7-4273-96ce-7017e7462b59
+https://ojaswa-maurya-portfolio.netlify.app/
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+* Interactive cyberpunk-themed UI
+* Project showcase section
+* Skills and capabilities dashboard
+* Academic timeline
+* AI Forge playground interface
+* Responsive design
+* GitHub integration
 
+## Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* React
+* TypeScript
+* Tailwind CSS
+* Vite
+* Netlify
+
+## About
+
+This portfolio was created as a learning project while exploring modern frontend development and AI-assisted workflows. It showcases my projects, education, skills, and experiments with interactive user interfaces.
+
+## Local Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## Author
+
+Ojaswa Maurya
+
+GitHub: https://github.com/OjaswaMaurya
