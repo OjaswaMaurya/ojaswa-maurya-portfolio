@@ -1,0 +1,6 @@
+{
+  "name": "Ojaswa Maurya Portfolio",
+  "description": "High-fidelity interactive cyber-neon portfolio and developer console diagnostics interface for Ojaswa Maurya, IoT Developer & Software Engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
